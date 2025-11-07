@@ -115,7 +115,7 @@ sudo apt install build-essential pkg-config libsdl2-dev libsdl2-ttf-dev libglew-
 ### Clone the repository and switch into it:
 
 ```
-git clone https://github.com/YOUR_USERNAME/Mathh.git
+git clone https://github.com/shubhu121/Mathh.git
 cd Mathh
 
 ```
